@@ -1,0 +1,243 @@
+prompt,completion
+Schedule an appointment with a doctor.,schedule_appointment
+I need to schedule a follow-up appointment.,schedule_appointment
+Can I reschedule my appointment?,reschedule_appointment
+I want to reschedule my appointment.,reschedule_appointment
+How can I reschedule my appointment?,reschedule_appointment
+I need to cancel my appointment.,cancel_appointment
+Can I cancel my appointment?,cancel_appointment
+How do I cancel my appointment?,cancel_appointment
+I need a prescription for my medication.,request_prescription
+Can you refill my prescription?,request_prescription_refill
+I need a refill for my prescription.,request_prescription_refill
+How do I refill my prescription?,request_prescription_refill
+I have questions about my insurance.,insurance_questions
+What does my insurance cover?,insurance_questions
+How much will my insurance cover?,insurance_questions
+I need to find an in-network provider.,insurance_questions
+What is preventive care?,preventive_care
+How often should I get preventive care?,preventive_care
+What preventive care services are recommended for my age?,preventive_care
+I have a chronic condition and need to manage my care.,chronic_care
+How can I manage my chronic condition?,chronic_care
+What lifestyle changes can I make to manage my chronic condition?,chronic_care
+I need urgent medical attention.,urgent_care
+Where is the nearest urgent care facility?,urgent_care
+What is the wait time at the urgent care facility?,urgent_care
+I have symptoms and need to know what to do.,symptom_checker
+What could be causing my symptoms?,symptom_checker
+Should I see a doctor for my symptoms?,symptom_checker
+Can I treat my symptoms at home?,symptom_checker
+How can I reduce my risk of getting sick?,preventive_care
+What vaccines do I need to stay healthy?,preventive_care
+How can I quit smoking?,preventive_care
+I have diabetes and need to manage my blood sugar.,chronic_care
+How can I manage my blood sugar?,chronic_care
+What lifestyle changes can I make to manage my diabetes?,chronic_care
+I have high blood pressure and need to manage it.,chronic_care
+How can I manage my blood pressure?,chronic_care
+What lifestyle changes can I make to manage my high blood pressure?,chronic_care
+I have a history of heart disease in my family.,preventive_care
+What can I do to reduce my risk of heart disease?,preventive_care
+I have asthma and need to manage my symptoms.,chronic_care
+How can I manage my asthma symptoms?,chronic_care
+What lifestyle changes can I make to manage my asthma?,chronic_care
+I need to find a new doctor.,find_new_doctor
+How do I find a doctor that is right for me?,find_new_doctor
+What questions should I ask when choosing a new doctor?,find_new_doctor
+How do I know if a doctor is in my insurance network?,find_new_doctor
+I need to find a specialist.,find_specialist
+How do I find a specialist for my condition?,find_specialist
+What questions should I ask when choosing a specialist?,find_specialist
+How do I know if a specialist is in my insurance network?,find_specialist
+I have questions about my medication.,medication_questions
+What are the side effects of my medication?,medication_questions
+How do I take my medication?,medication_questions
+What should I do if I miss a dose of my medication?,medication_questions
+I need to schedule a check-up.,schedule_appointment
+When can I schedule my next appointment?,schedule_appointment
+Can I schedule a telehealth appointment?,schedule_appointment
+I need to reschedule my follow-up appointment.,reschedule_appointment
+How far in advance do I need to reschedule my appointment?,reschedule_appointment
+Can I reschedule my appointment online?,reschedule_appointment
+I need to cancel my surgery.,cancel_appointment
+Can I cancel my appointment without penalty?,cancel_appointment
+What happens if I don't cancel my appointment?,cancel_appointment
+I need to refill my prescription.,request_prescription_refill
+Can I get a prescription refill without seeing my doctor?,request_prescription_refill
+How do I get my prescription refilled?,request_prescription_refill
+What should I do if my prescription runs out?,request_prescription_refill
+How can I check my insurance coverage?,insurance_questions
+Does my insurance cover mental health services?,insurance_questions
+How can I find an in-network specialist?,insurance_questions
+What is the difference between a deductible and a copay?,insurance_questions
+What is the best way to prevent the flu?,preventive_care
+Can I get a flu shot if I'm allergic to eggs?,preventive_care
+Do I need a tetanus shot?,preventive_care
+How can I protect myself from sexually transmitted infections?,preventive_care
+I need to manage my arthritis.,chronic_care
+What are the best exercises for arthritis?,chronic_care
+How can I manage arthritis pain?,chronic_care
+Can I manage arthritis symptoms with diet?,chronic_care
+I have a broken bone and need medical attention.,urgent_care
+Can I go to urgent care for a broken bone?,urgent_care
+What is the best way to immobilize a broken bone?,urgent_care
+Can I drive myself to urgent care with a broken bone?,urgent_care
+What should I do if I have a rash?,symptom_checker
+What could be causing my rash?,symptom_checker
+How do I treat a rash?,symptom_checker
+When should I see a doctor for a rash?,symptom_checker
+How can I stay healthy during cold and flu season?,preventive_care
+What are the best vitamins to boost my immune system?,preventive_care
+Can I get a flu shot if I have a cold?,preventive_care
+I have high cholesterol and need to manage it.,chronic_care
+How can I lower my cholesterol without medication?,chronic_care
+What foods should I avoid with high cholesterol?,chronic_care
+What medications are available for high cholesterol?,chronic_care
+I need to find a new dentist.,find_new_doctor
+What questions should I ask when choosing a new dentist?,find_new_doctor
+How do I find a dentist that accepts my insurance?,find_new_doctor
+What should I look for in a good dentist?,find_new_doctor
+I need to find a mental health provider.,find_specialist
+What is the difference between a psychiatrist and a psychologist?,find_specialist
+How do I find a mental health provider that meets my needs?,find_specialist
+What are the benefits of telehealth for mental health services?,find_specialist
+I have questions about my chemotherapy.,medication_questions
+What are the side effects of chemotherapy?,medication_questions
+How can I manage chemotherapy side effects?,medication_questions
+What should I do if I miss a chemotherapy appointment?,medication_questions
+How long does a typical appointment take?,schedule_appointment
+Can I schedule an appointment for a family member?,schedule_appointment
+I need to reschedule my dental appointment.,reschedule_appointment
+What is the cancellation policy for dental appointments?,reschedule_appointment
+Can I reschedule my appointment over the phone?,reschedule_appointment
+I need to cancel my physical therapy session.,cancel_appointment
+Is there a fee for canceling a physical therapy appointment?,cancel_appointment
+How do I cancel my appointment if I am feeling sick?,cancel_appointment
+Can I reschedule my appointment for a different location?,cancel_appointment
+I need a refill for my allergy medication.,request_prescription_refill
+What should I do if I experience side effects from my allergy medication?,request_prescription_refill
+How do I know if my allergy medication is working?,request_prescription_refill
+Can I get a prescription refill if I lost my medication?,request_prescription_refill
+How can I check if my procedure is covered by insurance?,insurance_questions
+How much will my procedure cost with insurance?,insurance_questions
+What is the difference between in-network and out-of-network providers?,insurance_questions
+Can I see a specialist without a referral?,insurance_questions
+How often should I have a mammogram?,preventive_care
+What should I do to prepare for a mammogram?,preventive_care
+What should I expect during a mammogram?,preventive_care
+Can I have a mammogram if I have breast implants?,preventive_care
+I need to manage my chronic pain.,chronic_care
+What are the best treatments for chronic pain?,chronic_care
+How can I manage chronic pain without medication?,chronic_care
+Can I still exercise with chronic pain?,chronic_care
+I have a medical emergency.,urgent_care
+What should I do if I can't get to urgent care?,urgent_care
+Can I call 911 for a medical emergency?,urgent_care
+What information should I have ready for a medical emergency?,urgent_care
+What should I do if I have chest pain?,symptom_checker
+What could be causing my chest pain?,symptom_checker
+When should I see a doctor for chest pain?,symptom_checker
+How can I prevent heart disease?,preventive_care
+What are the risk factors for heart disease?,preventive_care
+How can I monitor my heart health?,preventive_care
+I need to manage my diabetes.,chronic_care
+How can I lower my blood sugar without medication?,chronic_care
+What foods should I avoid with diabetes?,chronic_care
+What medications are available for diabetes?,chronic_care
+I need to find a new gynecologist.,find_new_doctor
+What questions should I ask when choosing a new gynecologist?,find_new_doctor
+How do I find a gynecologist that is LGBT-friendly?,find_new_doctor
+What should I look for in a good gynecologist?,find_new_doctor
+I need to find a physical therapist for my injury.,find_specialist
+What questions should I ask when choosing a physical therapist?,find_specialist
+How do I find a physical therapist that specializes in my injury?,find_specialist
+What should I expect during a physical therapy session?,find_specialist
+I have questions about my blood thinning medication.,medication_questions
+What are the side effects of blood thinning medication?,medication_questions
+How do I know if my blood thinning medication is working?,medication_questions
+What should I do if I miss a dose of my blood thinning medication?,medication_questions
+How can I reduce my risk of stroke?,preventive_care
+What are the benefits of mindfulness meditation for chronic pain?,chronic_care
+How can I manage my migraines without medication?,chronic_care
+Can I schedule a same-day appointment?,schedule_appointment
+What should I bring to my appointment?,schedule_appointment
+How can I check my appointment history?,schedule_appointment
+Can I reschedule my appointment multiple times?,reschedule_appointment
+I need to cancel my appointment due to a family emergency.,cancel_appointment
+Can I cancel my appointment online?,cancel_appointment
+How can I get a medication refill without seeing a doctor?,request_prescription_refill
+What are the side effects of my medication and how can I manage them?,medication_questions
+What should I do if my medication is not working?,medication_questions
+How can I find an affordable health insurance plan?,insurance_questions
+What is the difference between a health savings account and a flexible spending account?,insurance_questions
+How can I lower my risk of developing type 2 diabetes?,preventive_care
+What is the recommended amount of physical activity for adults?,preventive_care
+How can I reduce my risk of skin cancer?,preventive_care
+What should I do if I have an allergic reaction?,urgent_care
+How can I manage my symptoms while waiting for medical attention?,urgent_care
+What is the difference between a heart attack and a panic attack?,symptom_checker
+How can I manage anxiety without medication?,chronic_care
+What is the best way to prevent falls in older adults?,preventive_care
+What should I do if I experience a fall?,urgent_care
+Can I get a flu shot if I am pregnant?,preventive_care
+How can I manage my arthritis during pregnancy?,chronic_care
+What is the recommended amount of sleep for adults?,preventive_care
+What should I do if I have trouble sleeping?,chronic_care
+How can I manage my COPD symptoms?,chronic_care
+What are the benefits of pulmonary rehabilitation for COPD?,chronic_care
+How can I manage my anxiety during a medical procedure?,chronic_care
+What is the recommended frequency for dental cleanings?,preventive_care
+How can I improve my oral health?,preventive_care
+What should I do if I have a toothache?,symptom_checker
+How can I manage my asthma during exercise?,chronic_care
+What should I do if I have a severe asthma attack?,urgent_care
+How can I manage my back pain without medication?,chronic_care
+What is the difference between physical therapy and chiropractic care?,find_specialist
+Can I see a therapist for postpartum depression?,find_specialist
+How can I manage my anxiety during public speaking?,chronic_care
+What are the benefits of talk therapy for depression?,chronic_care
+What should I do if I experience a panic attack?,urgent_care
+Can I get a COVID-19 vaccine if I am pregnant or breastfeeding?,preventive_care
+What are the possible side effects of the COVID-19 vaccine?,medication_questions
+How can I find a mental health provider that specializes in trauma?,find_specialist
+What is the recommended frequency for mammograms?,preventive_care
+How can I manage my menopause symptoms?,chronic_care
+What are some effective coping mechanisms for depression?,mental_health
+Can therapy be helpful for managing symptoms of PTSD?,mental_health
+How can I support a loved one with a mental health condition?,mental_health
+What are the benefits of mindfulness meditation for anxiety?,mental_health
+How can I improve my self-esteem and confidence?,mental_health
+What should I do if I am experiencing symptoms of burnout?,mental_health
+How can I build and maintain healthy relationships?,mental_health
+What are some effective ways to manage panic attacks?,mental_health
+Can exercise be helpful for managing symptoms of depression?,mental_health
+What should I do if I am experiencing suicidal thoughts?,mental_health
+How can I address and overcome negative thought patterns?,mental_health
+What are some effective treatments for obsessive-compulsive disorder?,mental_health
+Can social support be helpful for managing symptoms of anxiety?,mental_health
+How can I improve my sleep quality and quantity?,mental_health
+What are some effective techniques for managing symptoms of bipolar disorder?,mental_health
+Can dietary changes help improve symptoms of depression?,mental_health
+What should I do if I am experiencing symptoms of a mental health crisis?,mental_health
+How can I manage my symptoms of ADHD without medication?,mental_health
+What are some effective ways to manage symptoms of borderline personality disorder?,mental_health
+How can I manage my social anxiety in social situations?,mental_health
+What are some effective ways to manage symptoms of borderline personality disorder?,mental_health
+Can art therapy be helpful for managing symptoms of depression?,mental_health
+How can I develop a better work-life balance?,mental_health
+What are some effective techniques for managing symptoms of generalized anxiety disorder?,mental_health
+Can self-care practices be helpful for managing symptoms of postpartum depression?,mental_health
+How can I manage my symptoms of schizophrenia?,mental_health
+What should I do if I am experiencing symptoms of a panic attack in public?,mental_health
+How can I manage my symptoms of dissociative identity disorder?,mental_health
+What are some effective ways to manage symptoms of an eating disorder?,mental_health
+Can pet therapy be helpful for managing symptoms of anxiety and depression?,mental_health
+How can I improve my time management skills to reduce stress?,mental_health
+What should I do if I am experiencing symptoms of a phobia?,mental_health
+How can I address and overcome negative body image?,mental_health
+What are some effective techniques for managing symptoms of post-traumatic stress disorder?,mental_health
+Can aromatherapy be helpful for managing symptoms of anxiety and depression?,mental_health
+How can I manage my symptoms of obsessive-compulsive personality disorder?,mental_health
+What should I do if I am experiencing symptoms of a psychotic episode?,mental_health
+How can I improve my communication skills to build stronger relationships?,mental_health
